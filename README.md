@@ -11,8 +11,13 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
