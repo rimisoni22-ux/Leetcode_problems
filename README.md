@@ -8,12 +8,14 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | ------- |
 | [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0344-reverse-string) |
@@ -30,4 +32,16 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
