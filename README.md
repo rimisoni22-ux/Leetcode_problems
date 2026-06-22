@@ -6,11 +6,13 @@ Collection of my Leetcode solutions and DSA practice problems in java
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0125-valid-palindrome) |
@@ -24,4 +26,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | ------- |
 | [0125-valid-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
