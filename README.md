@@ -40,19 +40,23 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0125-valid-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Monotonic Stack
 |  |
 | ------- |
