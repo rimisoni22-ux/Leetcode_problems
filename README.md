@@ -13,6 +13,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
@@ -70,6 +71,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0724-find-pivot-index) |
