@@ -98,4 +98,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
