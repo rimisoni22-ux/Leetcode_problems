@@ -28,6 +28,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 ## Sorting
@@ -65,6 +66,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
@@ -102,6 +104,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0507-perfect-number) |
 | [3099-harshad-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3099-harshad-number) |
