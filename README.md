@@ -111,4 +111,12 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0507-perfect-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0507-perfect-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3099-harshad-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
