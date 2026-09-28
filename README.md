@@ -20,6 +20,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0643-maximum-average-subarray-i](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 ## Two Pointers
@@ -113,6 +114,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3099-harshad-number) |
 ## Linked List
