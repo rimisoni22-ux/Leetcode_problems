@@ -9,6 +9,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
@@ -101,6 +102,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0704-binary-search) |
