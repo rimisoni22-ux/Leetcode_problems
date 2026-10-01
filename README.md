@@ -13,6 +13,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
@@ -103,6 +104,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0704-binary-search) |
