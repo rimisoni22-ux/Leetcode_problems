@@ -10,6 +10,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -77,6 +78,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -133,4 +135,20 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0021-merge-two-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
