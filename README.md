@@ -28,6 +28,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -42,6 +43,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -151,4 +153,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0037-sudoku-solver) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
