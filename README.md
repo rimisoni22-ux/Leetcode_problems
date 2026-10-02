@@ -19,6 +19,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0414-third-maximum-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
@@ -48,6 +49,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0414-third-maximum-number) |
 ## String
 |  |
@@ -83,6 +85,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0037-sudoku-solver](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 ## Prefix Sum
 |  |
@@ -114,6 +117,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0035-search-insert-position](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0704-binary-search) |
 ## Design
@@ -124,6 +128,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0507-perfect-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -157,4 +162,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
