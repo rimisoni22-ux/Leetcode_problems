@@ -1,26 +1,22 @@
 class Solution {
-    public boolean isPalindrome(String s) {
-        int left = 0;
-        int right = s.length() - 1;
-
-        while (left < right) {
-            // skip non-alphanumeric
-            while (left < right && !Character.isLetterOrDigit(s.charAt(left))) {
-                left++;
+    public boolean isPalindrome(String s){
+        // using regex for removing all non-alphanumeric character and convert to lower case
+               s = s.replaceAll("[^A-Za-z0-9]", "").toLowerCase();
+         int i =0;
+         int j =s.length()-1;
+         while(i<=j){
+            if(s.charAt(i)!=s.charAt(j)){
+                return false ;
             }
-            while (left < right && !Character.isLetterOrDigit(s.charAt(right))) {
-                right--;
-            }
+            i++;
+            j--;
+         }
+         return true;
+        
 
-            // compare characters (case-insensitive)
-            if (Character.toLowerCase(s.charAt(left)) != 
-                Character.toLowerCase(s.charAt(right))) {
-                return false;
-            }
 
-            left++;
-            right--;
-        }
-        return true;
+
+
+        
     }
 }
