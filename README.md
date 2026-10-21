@@ -7,6 +7,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0031-next-permutation) |
@@ -63,6 +64,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0242-valid-anagram) |
@@ -189,4 +191,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0169-majority-element) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
