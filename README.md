@@ -36,6 +36,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0242-valid-anagram](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -190,6 +192,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
