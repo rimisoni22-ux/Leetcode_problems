@@ -1,40 +1,18 @@
-// class Solution {
-//     public int majorityElement(int[] nums) {
-        //bruete force approach
-        // int n = nums.length;
-        // for(int i=0;i<n;i++){
-        //     int count =0;
-        //     // howmany times nums[i] appears
-        //      for(int j =0;j<n;j++){
-        //         if(nums[i]==nums[j]){
-        //             count++;
-        //         }
-        //      }
-        //      if(count>n/2){ // 3 appears more then n/2 times 
-        //         return nums[i];
-        //      }            
-        // }
-        // return -1;
-        /// better solution--Hashing--
-    
 class Solution {
     public int majorityElement(int[] nums) {
-        int candidate = 0;
-        int balance = 0;
+        int n = nums.length;
+        HashMap<Integer,Integer> map = new HashMap<>();
+         for(int i=0;i<n;i++){
+            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
 
-        for (int value : nums) {
-            if (balance == 0) {
-                candidate = value;
+         }
+          for(Integer key:map.keySet()){
+            if(map.get(key)>n/2){
+                return key;
             }
 
-            if (value == candidate) {
-                balance++;
-            } else {
-                balance--;
-            }
-        }
-
-        return candidate;
+          }
+          return -1;
     }
 }
 
@@ -42,3 +20,68 @@ class Solution {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        // int n = nums.length;
+        // int count = 1;
+        // int majority = nums[0]; // Assume first element as candidate
+
+        // // Phase 1: Find potential majority candidate
+        // for (int i = 1; i < n; i++) {
+        //     if (nums[i] == majority) {
+        //         count++;
+        //     } else {
+        //         count--;
+        //         if (count == 0) {
+        //             majority = nums[i];
+        //             count = 1;
+        //         }
+        //     }
+        // }
+
+        // // Phase 2: Verify the candidate
+        // count = 0;
+        // for (int i = 0; i < n; i++) {
+        //     if (nums[i] == majority) {
+        //         count++;
+        //     }
+        // }
+
+        // // Return the element if it occurs more than n/2 times
+        // if (count > n / 2)
+        //     return majority;
+        // else
+        //     return -1; // No majority element found
+//     }
+// }
