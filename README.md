@@ -22,6 +22,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0162-find-peak-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -53,6 +54,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0344-reverse-string) |
@@ -156,6 +158,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
