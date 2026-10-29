@@ -4,15 +4,17 @@ class Solution {
 
         while (low < high) {
             int mid = low + (high - low) / 2;
+
             if (nums[mid] < nums[mid + 1]) {
-        // peak is on the right side
+                // peak is on the right side
                 low = mid + 1;
             } else {
-        // peak is on the left side or at mid
+                // peak is on the left side or at mid
                 high = mid;
             }
         }
-        // low == high → peak index
+        // low = high peak index
         return high;
     }
 }
+ 
