@@ -3,21 +3,26 @@ class Solution {
         int left = 0;
         int right =height.length-1;
         int maxarea =0;
-        while(left<right){
+         while(left<right){
             int currheight = Math.min(height[left],height[right]);
-           int  currwidth = right-left;
+            int currwidth = right-left;
             int currarea = currheight*currwidth;
-            maxarea = Math.max(maxarea,currarea);
-              if(height[left]<height[right]){
+            maxarea = Math.max(currarea,maxarea);
+             if(height[left]<=height[right]){
                 left++;
-              } else{
+             } else{
                 right--;
-              }
-            
-        }
-      return maxarea;
-        
+             }
+         }
+         return maxarea;
     }
-      
-
 }
+
+
+
+
+
+
+
+
+
