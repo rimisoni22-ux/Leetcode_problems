@@ -38,6 +38,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0643-maximum-average-subarray-i](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -62,6 +63,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0344-reverse-string) |
+| [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
@@ -75,6 +77,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0242-valid-anagram](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0414-third-maximum-number) |
+| [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
 | ------- |
@@ -90,6 +93,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | ------- |
 | [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Dynamic Programming
 |  |
@@ -227,4 +231,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0075-sort-colors) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
