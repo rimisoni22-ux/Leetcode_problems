@@ -41,6 +41,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0724-find-pivot-index](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1395-count-number-of-teams](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1395-count-number-of-teams) |
 | [1480-running-sum-of-1d-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -105,6 +106,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0053-maximum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1395-count-number-of-teams](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1395-count-number-of-teams) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Stack
 |  |
@@ -240,4 +242,12 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1395-count-number-of-teams) |
+## Segment Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
