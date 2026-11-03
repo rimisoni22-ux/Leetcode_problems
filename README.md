@@ -19,6 +19,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0075-sort-colors](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0136-single-number) |
@@ -113,6 +114,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0053-maximum-subarray) |
+| [0118-pascals-triangle](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1395-count-number-of-teams](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1395-count-number-of-teams) |
