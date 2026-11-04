@@ -47,6 +47,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1395-count-number-of-teams](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1395-count-number-of-teams) |
 | [1480-running-sum-of-1d-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+| [1929-concatenation-of-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
@@ -221,6 +222,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
 ## Bit Manipulation
