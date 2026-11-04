@@ -38,6 +38,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0349-intersection-of-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0605-can-place-flowers](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0724-find-pivot-index) |
@@ -108,6 +109,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | ------- |
 | [0011-container-with-most-water](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Dynamic Programming
