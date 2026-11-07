@@ -37,6 +37,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0303-range-sum-query-immutable](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0414-third-maximum-number) |
+| [0485-max-consecutive-ones](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
