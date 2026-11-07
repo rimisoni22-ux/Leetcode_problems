@@ -1,17 +1,17 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        int k =0;
-        for(int num:nums){
-            if(k<2){
-                nums[k]=num;
-                k++;
-            }
-            else if(num!=nums[k-2]){
-                nums[k]=num;
-                k++;
+        //using slow fast approach 
+       
+        int k=2;
+      int n=nums.length;
+       for(int i=2;i<n;i++){
+        if(k<2||nums[i]!=nums[k-2]){
+            nums[k]=nums[i];
+            k++;
 
-            }
-        }
+        }        
+       }       
+    
         return k;
 
 
