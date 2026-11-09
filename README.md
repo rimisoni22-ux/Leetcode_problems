@@ -35,6 +35,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0238-product-of-array-except-self](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0414-third-maximum-number) |
@@ -125,6 +126,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0118-pascals-triangle](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [1395-count-number-of-teams](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1395-count-number-of-teams) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Stack
@@ -184,6 +186,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
+| [0300-longest-increasing-subsequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0704-binary-search) |
@@ -276,4 +279,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
