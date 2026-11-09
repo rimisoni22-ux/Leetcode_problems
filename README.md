@@ -22,6 +22,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0118-pascals-triangle](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0162-find-peak-element) |
@@ -139,6 +140,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0217-contains-duplicate) |
@@ -270,4 +272,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [1395-count-number-of-teams](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1395-count-number-of-teams) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
