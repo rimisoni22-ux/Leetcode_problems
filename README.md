@@ -52,6 +52,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1395-count-number-of-teams](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1395-count-number-of-teams) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
