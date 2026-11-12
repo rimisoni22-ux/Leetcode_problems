@@ -5,14 +5,11 @@ class Solution {
         int n = arr.length;
         for(int i=n-1;i>=0;i--){
             int curr = arr[i];
-            arr[i]=max;
+            arr[i]= max;
             if(curr>max){
-                max=curr;
+                max = curr;
             }
         }
-
-      
-
         return arr;
     }
 }
