@@ -48,6 +48,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -84,6 +85,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -103,6 +105,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0881-boats-to-save-people](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
