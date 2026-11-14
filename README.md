@@ -62,6 +62,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0643-maximum-average-subarray-i](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3364-minimum-positive-sum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
