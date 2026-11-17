@@ -218,6 +218,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0202-happy-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [0492-construct-the-rectangle](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0507-perfect-number) |
 | [0866-prime-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0866-prime-palindrome) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
