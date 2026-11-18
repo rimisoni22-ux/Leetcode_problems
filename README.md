@@ -50,6 +50,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0922-sort-array-by-parity-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -107,6 +108,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0905-sort-array-by-parity](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## String
 |  |
@@ -280,6 +282,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1051-height-checker) |
 ## Timsort
 |  |
 | ------- |
@@ -308,4 +311,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0866-prime-palindrome) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
