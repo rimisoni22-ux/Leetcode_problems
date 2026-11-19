@@ -51,6 +51,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0977-squares-of-a-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1051-height-checker) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -161,6 +162,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
 |  |
@@ -171,6 +173,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -191,6 +194,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0219-contains-duplicate-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3364-minimum-positive-sum-subarray) |
 ## Binary Search
@@ -223,6 +227,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0492-construct-the-rectangle](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0507-perfect-number) |
 | [0866-prime-palindrome](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0866-prime-palindrome) |
+| [1248-count-number-of-nice-subarrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3099-harshad-number) |
