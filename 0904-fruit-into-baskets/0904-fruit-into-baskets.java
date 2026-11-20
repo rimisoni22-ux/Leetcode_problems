@@ -1,31 +1,42 @@
 
+import java.util.*;
+
 class Solution {
     public int totalFruit(int[] fruits) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+
+        int n = fruits.length;
         int left = 0;
+        int right = 0;
         int maxLen = 0;
-        for (int right = 0; right < fruits.length; right++) {
 
-            // Add fruit into map
-            map.put(fruits[right],
-                map.getOrDefault(fruits[right], 0) + 1);
+        HashMap<Integer, Integer> mpp = new HashMap<>();
 
-            // More than 2 distinct fruits
-            while (map.size() > 2) {
+        while (right < n) {
 
-                map.put(fruits[left],
-                    map.get(fruits[left]) - 1);
+            // Increase frequency
+            mpp.put(fruits[right],
+                mpp.getOrDefault(fruits[right], 0) + 1);
 
-                // Remove fruit if frequency becomes 0
-                if (map.get(fruits[left]) == 0) {
-                    map.remove(fruits[left]);
+            // If distinct fruits are more than 2
+            if (mpp.size() > 2) {
+
+                mpp.put(fruits[left],
+                    mpp.get(fruits[left]) - 1);
+
+                // Remove fruit if frequency becomes zero
+                if (mpp.get(fruits[left]) == 0) {
+                    mpp.remove(fruits[left]);
                 }
 
                 left++;
             }
 
-            // Calculate maximum window size
-            maxLen = Math.max(maxLen, right - left + 1);
+            // Update maximum window length
+            if (mpp.size() <= 2) {
+                maxLen = Math.max(maxLen, right - left + 1);
+            }
+
+            right++;
         }
 
         return maxLen;
