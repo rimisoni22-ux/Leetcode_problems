@@ -49,6 +49,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0904-fruit-into-baskets](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1051-height-checker) |
@@ -164,6 +165,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0349-intersection-of-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Prefix Sum
@@ -174,6 +176,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0303-range-sum-query-immutable](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -196,6 +199,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0219-contains-duplicate-ii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
