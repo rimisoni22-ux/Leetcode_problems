@@ -1,13 +1,31 @@
+
+import java.util.*;
+
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
-        int n = nums.length;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n && j <= i + k; j++) { // i-j <=k
-                if (nums[i] == nums[j]) {
-                    return true;
-                }
+        HashSet<Integer> set = new HashSet<>();
+
+        int left = 0;
+        int right = 0;
+
+        while (right < nums.length) {
+
+            // Remove elements outside the allowed window
+            if (right - left > k) {
+                set.remove(nums[left]);
+                left++;
             }
+
+            // Check duplicate
+            if (set.contains(nums[right])) {
+                return true;
+            }
+
+            // Add current element
+            set.add(nums[right]);
+
+            right++;
         }
 
         return false;
