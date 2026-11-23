@@ -216,6 +216,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
@@ -331,4 +332,8 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1051-height-checker) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
