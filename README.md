@@ -62,6 +62,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1480-running-sum-of-1d-array) |
+| [1539-kth-missing-positive-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -226,6 +227,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0713-subarray-product-less-than-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 ## Design
 |  |
 | ------- |
