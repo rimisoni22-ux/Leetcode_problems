@@ -221,6 +221,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [0300-longest-increasing-subsequence](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -338,6 +339,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Newton's Method
 |  |
 | ------- |
