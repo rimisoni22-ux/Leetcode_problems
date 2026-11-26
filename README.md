@@ -248,6 +248,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3099-harshad-number](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3099-harshad-number) |
+| [3360-stone-removal-game](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3360-stone-removal-game) |
 ## Linked List
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Collection of my Leetcode solutions and DSA practice problems in java
 | [1929-concatenation-of-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/2460-apply-operations-to-an-array) |
+| [3360-stone-removal-game](https://github.com/rimisoni22-ux/Leetcode_problems/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
